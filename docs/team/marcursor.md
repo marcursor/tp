@@ -23,7 +23,7 @@ Given below are my contributions to this project.
     - Justification: This feature is important as it allows users to have more control over their events schedule. The feature allows for removal of obsolete or erroneously input events.
     - Highlights: 
     
-- Code contributed: ![RepoSense Link](https://nus-cs2113-ay2021s1.github.io/tp-dashboard/#breakdown=true&search=marcursor&sort=groupTitle&sortWithin=title&since=2020-09-27&timeframe=commit&mergegroup=&groupSelect=groupByRepos&checkedFileTypes=docs~functional-code~test-code~other&tabOpen=true&tabType=authorship&tabAuthor=marcursor&tabRepo=AY2021S1-CS2113T-T12-4%2Ftp%5Bmaster%5D&authorshipIsMergeGroup=false&authorshipFileTypes=docs~functional-code~test-code~other)
+- Code contributed: [RepoSense Link](https://nus-cs2113-ay2021s1.github.io/tp-dashboard/#breakdown=true&search=marcursor&sort=groupTitle&sortWithin=title&since=2020-09-27&timeframe=commit&mergegroup=&groupSelect=groupByRepos&checkedFileTypes=docs~functional-code~test-code~other&tabOpen=true&tabType=authorship&tabAuthor=marcursor&tabRepo=AY2021S1-CS2113T-T12-4%2Ftp%5Bmaster%5D&authorshipIsMergeGroup=false&authorshipFileTypes=docs~functional-code~test-code~other)
 
 - Project Management: 
     - Managed releases `v1.0`, `v2.0` and `v2.1` (3 releases) on Github
@@ -36,5 +36,5 @@ Given below are my contributions to this project.
         - Added implementation details of the `check` feature.
 
 - Community:
-    - Tested and reviewed other groups project (with non-trivial review comments): ![PR Review](https://github.com/marcursor/ped/issues)
-    - DG reviewed (with non-trivial review comments): ![DG Review](https://github.com/nus-cs2113-AY2021S1/tp/pull/4#pullrequestreview-519320304)
+    - Tested and reviewed other groups project (with non-trivial review comments): [PR Review](https://github.com/marcursor/ped/issues)
+    - DG reviewed (with non-trivial review comments): [DG Review](https://github.com/nus-cs2113-AY2021S1/tp/pull/4#pullrequestreview-519320304)
